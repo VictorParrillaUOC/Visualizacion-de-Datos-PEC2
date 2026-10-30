@@ -1,4 +1,4 @@
-# Visualizaci-n-de-Datos-PEC2
+# Visualizacion-de-Datos-PEC2
 
 En esta práctica hemos realizado 3 visualizaciones:
 
